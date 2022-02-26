@@ -1,0 +1,17 @@
+.left{
+    width: 45%;
+    float: left;
+    margin: 15px;
+    background-color: red;
+}
+    .left > h2{
+        color: #00b4ff;
+    }
+
+.main{
+    width: 45%;
+    float: left;
+    margin: 15px;
+    background-color: red;
+}
+

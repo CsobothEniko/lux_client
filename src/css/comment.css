@@ -1,0 +1,8 @@
+.comment{
+    margin: 2px;
+    text-align: left;
+    padding: 2px;
+}
+.comment b{
+    color: blue;
+}
